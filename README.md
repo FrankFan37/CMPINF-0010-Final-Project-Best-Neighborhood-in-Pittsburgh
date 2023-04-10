@@ -1,5 +1,5 @@
 # CMPINF-0010-Final-Project-Best-Neighborhood-in-Pittsburgh
-## Team name（Group 40）: DUO
+## Team name(Group 40): DUO
 ## Team member: Hongkun Yao(hoy25), Lingfeng Fan(lif44)
 ## Description:
 
